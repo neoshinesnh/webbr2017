@@ -11,7 +11,7 @@ _24 de Outubro - 09:30 - 10:15_
     - Telexistência tem sido usado na construção, Isso traz segurança ao operar remotamente;
     - Desastres naturais;
     - Maratona;
-* Esperasse que em breve será possivel trabalhar de casa controlando um robô no trabalho, isso evitaria ter que pegar trânsito, entre outros fatores;
+* Esperasse que em breve seja possível trabalhar de casa controlando um robô no trabalho, isso evitaria ter que pegar trânsito, entre outros fatores;
 * Atualmente há problema de latência por conta da internet que temos;
 * Não da para saber de 5G irá resolver problema com latência;
 * Problemas: 

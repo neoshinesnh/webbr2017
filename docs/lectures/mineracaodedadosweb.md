@@ -3,7 +3,7 @@ _24 de outubro | 14:40 - 15:20_
 
 * Se der lixo para o algoritmo ele lhe retornará lixo
 * Fake News - é subjetivo, se a pessoa não acredita na notícia, ela diz que é falsa
-* O que esta faltando?
+* O que está faltando?
     * Justiça, responsabilidade e transparência.
 * O minerador pode ser racista?
     * O algoritmo deve tratar sobre discriminação (anti-discriminação).

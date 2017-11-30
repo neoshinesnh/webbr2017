@@ -1,31 +1,32 @@
-## Workshop: Blockchain para muito além de criptomoedas - Alecio Binotto, André Salem, Percival Lucena,	Alex Braz, Guilherme Rabello e Fulvio Xavier
+## Workshop: Blockchain para muito além de criptomoedas - Alecio Binotto, André Salem, Percival Lucena, Alex Braz, Guilherme Rabello e Fulvio Xavier
 _25 de outubro | 09:00 - 13:00_
 
-* [Git - Hyperledger](https://github.com/hyperledger)
-* Podemos ter blockchain:
-    * Público
-    * ~~Privado~~ "Permissionado"
-* Transação só é __commitada__ quando todos nós confirmam a transação 
-* [Welight](https://welight.co)  
+* Palestra 1:
+    * [Git - Hyperledger](https://github.com/hyperledger)
+        * Podemos ter blockchain:
+        * Público
+        * ~~Privado~~ "Permissionado"
+        * Transação só é __commitada__ quando todos nós confirmam a transação 
+* Palestra 2 - [Welight](https://welight.co)  
     * Empresa está implementando tecnologia blockchain
-    * Empreender pensando em impacto
-* Outras plataformas:
-    * https://giveth.io/
-    * http://alice.si/
-    * https://www.bitgivefoundation.org/
-    * https://www.helperbit.com/
-* Blockchain na educação:
-    * Hype Cycle for Blockchain Business, 2017
-    * Exemplos para resolver problemas na educação:
-        * Protocolo de Bolonha - Formação em tecnologia
-        * Produção de artigos científicos 
-    * Casos:
-        MIT - Tem diplomas no blockchain
-* [IBM Blockchain](https://www.ibm.com/blockchain/)
-    * Bitcoin: 1ª aplicação em blockchain
-    * 2 principais conceitos:
+    * Devemos empreender pensando em impacto
+    * Outras plataformas semelhantes ao Welight:
+        * [Giveth](https://giveth.io/)
+        * [Alice](http://alice.si/)
+        * [BitGive](https://www.bitgivefoundation.org/)
+        * [Helperbit](https://www.helperbit.com/)
+    * Blockchain na educação:
+        * Hype Cycle for Blockchain Business, 2017
+        * Exemplos para resolver problemas na educação:
+            * Protocolo de Bolonha - Formação em tecnologia
+            * Produção de artigos científicos 
+        * Casos:
+            MIT - Tem diplomas no blockchain
+*  Palestra 3 - [IBM Blockchain](https://www.ibm.com/blockchain/)
+    * Bitcoin: 1ª aplicação em Blockchain
+    * 2 conceitos principais:
         * Rede de negócios segura
-        * livro razão
+        * Livro razão
     * Benefícios
         * Reduz tempo
         * Remove custos
@@ -40,7 +41,7 @@ _25 de outubro | 09:00 - 13:00_
     * Tendência futura:
         * População <-> Empresas <-> Indústrias <-> Governos <-> Globo [nova economia]
     * IOT + Blockchain + Cognitive
-* A Economia do “Token”
+* Palestra 4 - A Economia do “Token”
     * A segunda era da internet -> internet de valor
     * Blockchain é uma rede distribuída
     * Duas visões:
@@ -53,12 +54,12 @@ _25 de outubro | 09:00 - 13:00_
     * Links: 
         * http://blockchainrevolution.com.br/
         * https://www.blockchainresearchinstitute.org/
-* [Astarlabs](www.astarlabs.com)
+* Palestra 5 - [Astarlabs](www.astarlabs.com)
     * Ethereum Smart Contracts:
         * Criar apps peer-to-peer
     * Ethereum features: 
         * Segurança, mecanismo de consenso
-    * Empresas:
+    * Cases:
         * ICO - Smart contracts de token
         * uPort - Identificar pessoas de forma desentralizada
         * Grid+ - Comercialização descentralizada de energia elétrica
@@ -66,29 +67,17 @@ _25 de outubro | 09:00 - 13:00_
         * Storj
         * followmyvote.com - Transparência na votação
     * alex@astarlabs.com
-* + Cases
-    * Metamask
-    * RSK - Executa smart contracts na rede do bitcoin
-    * IBM chain code
-    * Uniproof - Integração entre empresa e cartório
-    * Meu diploma digital
-* O impacto do blockchain na saúde digital
-    * Cases:
-        * Identificador universal do paciente
-        * Database único -> SPD
-        * Infopatrimonios (ver site da câmara)
-* Smartchains
+* Palestra 6 - 
+    * Cases 
+        * Metamask
+        * RSK - Executa smart contracts na rede do bitcoin
+        * IBM chain code
+        * Uniproof - Integração entre empresa e cartório
+        * Meu diploma digital
+* Palestra 7 - [Smartchains](https://www.smartchains.com.br/)
     * Blockchain é uma cadeia de confiança para ter negócios confiáveis
-    * Não e possível burlar o Blockchain, é possível inserir informações erradas
-    * Minerador, empresta sua infraestrutura (computador) para rede e recebe, por exemplo, uma moeda virtual em troca
+    * Não é possível burlar o Blockchain, mas é possível inserir informações erradas
     * Blockchain, pode ser burlado se for construído de qualquer jeito
-
-
-
-
-
-
-
-
+    * Sobre um minerador: Empresta sua infraestrutura (computador) para rede e recebe, por exemplo, uma moeda virtual em troca
 
 [Voltar](/webbr2017)

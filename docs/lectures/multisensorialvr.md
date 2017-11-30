@@ -3,7 +3,7 @@ _24 de outubro | 11:30 - 12:15_
 
 * The Feelies - casa de produção de Realidade Virtual multissensorial
 * Experiência Munduruku:
-   * Uma viagem em realidade virtual pela Amazônia;
+    * Uma viagem em realidade virtual pela Amazônia;
     * Projeto em parceria com o Greenpeace e a AlchemyVR;
     * Contou história de povos indígenas na luta contra o desmatamento;
     * Projeto foi apresentado em São Paulo;
