@@ -8,7 +8,7 @@ _25 de outubro | 09:00 - 13:00_
         * ~~Privado~~ "Permissionado"
         * Transação só é __commitada__ quando todos nós confirmam a transação 
 * Palestra 2 - [Welight](https://welight.co)  
-    * Empresa está implementando tecnologia blockchain
+    * Empresa está implantando tecnologia blockchain
     * Devemos empreender pensando em impacto
     * Outras plataformas semelhantes ao Welight:
         * [Giveth](https://giveth.io/)
