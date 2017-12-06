@@ -22,4 +22,10 @@ _24 de Outubro - 09:30 - 10:15_
     - Rota entre 2 localizações são dinâmicas;
 * Charith e sua equipe estão criando um avatar para participar do avatar xprize 
 
+[Web.br 2017] The Future of Telexistence (Inglês)
+[![[Web.br 2017] The Future of Telexistence (Inglês)](http://img.youtube.com/vi/Quz_ePJAUng/0.jpg)](http://www.youtube.com/watch?v=Quz_ePJAUng)
+
+[Web.br 2017] The Future of Telexistence (Português)
+[![[Web.br 2017] The Future of Telexistence (Português)](http://img.youtube.com/vi/CKEQDpAFBqE/0.jpg)](http://www.youtube.com/watch?v=CKEQDpAFBqE)
+
 [Voltar](/webbr2017)
