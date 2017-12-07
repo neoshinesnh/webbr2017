@@ -15,5 +15,5 @@ _24 de outubro | 14:40 - 15:20_
     * A web era uma tecnologia;
     * Hoje ela é um reflexão da sociedade;
     * Tornar algoritmos compatíveis com éticas e normas legais pode ser difícil.
-
+    
 [Voltar](/webbr2017)

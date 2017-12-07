@@ -26,4 +26,10 @@ Conclusão:
     * Ser impactado pela luta que a tribo indigena tem passado contra o desmatamento;
 * As pessoas realmente se sentiram como se estivessem junto com os povos indígenas;
 
+[Web.br 2017] Multi-sensorial VR: exploring feelings and experiences (Inglês)
+[![[Web.br 2017] Multi-sensorial VR: exploring feelings and experiences (Inglês)](http://img.youtube.com/vi/gzPwqGvjIfs/0.jpg)](http://www.youtube.com/watch?v=gzPwqGvjIfs)
+
+[Web.br 2017] Multi-sensorial VR: exploring feelings and experiences (Português)
+[![[Web.br 2017] Multi-sensorial VR: exploring feelings and experiences (Português)](http://img.youtube.com/vi/ei05Feu0TsI/0.jpg)](http://www.youtube.com/watch?v=ei05Feu0TsI)
+
 [Voltar](/webbr2017)

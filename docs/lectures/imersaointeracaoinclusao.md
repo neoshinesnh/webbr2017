@@ -17,4 +17,10 @@ _25 de outubro | 14:45 - 15:30_
     * W3 -> WCAG (Web Content Accessibility Guidelines)
 * [Movimento Web para Todos](http://mwpt.com.br/) 
 
+[Web.br 2017] Imersão, Interação e Inclusão (Inglês)
+[![[Web.br 2017] Imersão, Interação e Inclusão (Inglês)](http://img.youtube.com/vi/lx4D8yKMeYA/0.jpg)](http://www.youtube.com/watch?v=lx4D8yKMeYA)
+
+[Web.br 2017] Imersão, Interação e Inclusão (Português)
+[![[Web.br 2017] Imersão, Interação e Inclusão (Português)](http://img.youtube.com/vi/r5w2CsSXl9Q/0.jpg)](http://www.youtube.com/watch?v=r5w2CsSXl9Q)
+
 [Voltar](/webbr2017)

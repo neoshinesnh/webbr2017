@@ -80,4 +80,16 @@ _25 de outubro | 09:00 - 13:00_
     * Blockchain, pode ser burlado se for construído de qualquer jeito
     * Sobre um minerador: Empresta sua infraestrutura (computador) para rede e recebe, por exemplo, uma moeda virtual em troca
 
+[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 1" (Inglês)
+[![[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 1" (Inglês)](http://img.youtube.com/vi/QX7jq8BIuK8/0.jpg)](http://www.youtube.com/watch?v=QX7jq8BIuK8)
+
+[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 2" (Inglês)
+[![[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 2" (Inglês)](http://img.youtube.com/vi/_O3IyA0-1fk/0.jpg)](http://www.youtube.com/watch?v=_O3IyA0-1fk)
+
+[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 1" (Português)
+[![[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 1" (Português)](http://img.youtube.com/vi/fk_VQzQinLY/0.jpg)](http://www.youtube.com/watch?v=fk_VQzQinLY)
+
+[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 2" (Português)
+[![[Web.br 2017] Workshop "Blockchain para muito além de criptomoedas – parte 2" (Português)](http://img.youtube.com/vi/_oWTQXkBdy4/0.jpg)](http://www.youtube.com/watch?v=_oWTQXkBdy4)
+
 [Voltar](/webbr2017)
