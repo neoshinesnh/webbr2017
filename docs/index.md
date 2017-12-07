@@ -1,5 +1,5 @@
 # Webbr 2017 - W3C Brasil
-[_http://conferenciaweb.w3c.br_](http://conferenciaweb.w3c.br)
+[http://conferenciaweb.w3c.br](http://conferenciaweb.w3c.br)
 
 24 de outubro | 09:30 - 10:15 - [The Future of Telexistence - Charith Fernando (TELEXISTENCE inc)](/lectures/thefutureoftelexistence.md)
 
