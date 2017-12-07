@@ -28,6 +28,6 @@
 ##### 25 de outubro | 16:45 - 17:30 
 ###### [Fairness in AI and impact on VR - Onome Ofoman](/lectures/fairnessinaiandimpactonvr.md)
 
-#####Links:
-######Playlist on Youtube: [Here](https://www.youtube.com/watch?v=JBcGj9gabj4&list=PLQq8-9yVHyOZu6cL4vwbnMzCJC6F22Wge)
-######Photos on Flickr: [Here](https://www.flickr.com/photos/nicbr/sets/72157674092273191)
+##### Links:
+###### Playlist on Youtube: [Here](https://www.youtube.com/watch?v=JBcGj9gabj4&list=PLQq8-9yVHyOZu6cL4vwbnMzCJC6F22Wge)
+###### Photos on Flickr: [Here](https://www.flickr.com/photos/nicbr/sets/72157674092273191)
